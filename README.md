@@ -4,7 +4,7 @@
   <strong>A lightweight, interactive quiz app built with vanilla HTML, CSS and JavaScript.</strong>
 </p>
 
----
+
 
 ## 📖 About
 
@@ -23,7 +23,7 @@ Each question is stored as an object in the `Qdata` array:
 }
 ```
 
----
+
 
 ## ✨ Features
 
@@ -49,7 +49,7 @@ Each question is stored as an object in the `Qdata` array:
 - Score increases only for correct answers, with no duplicate points when revisiting a question using Previous
 - After the last question, clicking Next shows a **Congratulations** screen inside `.box1` with `score / Qdata.length` and a **Restart Quiz** button (`showResultScreen()`)
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -65,7 +65,7 @@ Each question is stored as an object in the `Qdata` array:
 | <img src="https://skillicons.dev/icons?i=css" width="20" /> **CSS3** | Styling the quiz card and buttons |
 | <img src="https://skillicons.dev/icons?i=js" width="20" /> **JavaScript (ES6+)** | Logic, DOM manipulation, event delegation |
 
----
+
 
 ## 🏗️ Project Structure
 
@@ -78,7 +78,7 @@ Mini-Quiz-App/
 └── README.md
 ```
 
----
+
 
 ## ⚙️ How to Run Locally
 
@@ -99,7 +99,6 @@ Mini-Quiz-App/
 
 No installation or build step is needed.
 
----
 
 ## 🚀 Future Improvements
 
@@ -109,9 +108,3 @@ No installation or build step is needed.
 - [ ] Add categories (e.g. HTML, CSS, JavaScript)
 - [ ] Shuffle questions and options
 - [ ] Save the high score using `localStorage`
-
----
-
-## 👨‍💻 Author
-
-**Prashant** · [@PrashUpdates](https://github.com/PrashUpdates)
