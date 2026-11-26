@@ -34,7 +34,7 @@ const Qdata = [
   },
   {
     question: "Question 2: Which planet is known as the Red Planet?",
-    option1: "A) Venuw",
+    option1: "A) Venus",
     option2: "B) Mars",
     option3: "C) Jupiter",
     option4: "D) Saturn",
