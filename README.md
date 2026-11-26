@@ -96,12 +96,3 @@ Mini-Quiz-App/
 3. Right-click `index.html` and choose **Open with Live Server**
 
 No installation or build step is needed.
-
-
-## 🚀 Future Improvements
-
-- [ ] Remember the selected option colors when going back with **Previous**
-- [ ] Add a timer for each question
-- [ ] Add more questions
-- [ ] Add categories (e.g. HTML, CSS, JavaScript)
-- [ ] Shuffle questions and options
