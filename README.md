@@ -5,7 +5,6 @@
 </p>
 
 
-
 ## 📖 About
 
 **Mini Quiz App** is a browser-based quiz with 5 multiple-choice questions. Pick an answer, get instant feedback, move between questions, and see your final score at the end. No frameworks, no libraries, just plain JavaScript.
@@ -55,7 +54,7 @@ Each question is stored as an object in the `Qdata` array:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,vscode,git,github&perline=6" />
+    <img src="https://skillicons.dev/icons?i=html,css,js&perline=3" />
   </a>
 </p>
 
@@ -77,7 +76,6 @@ Mini-Quiz-App/
 ├── main.js      # Qdata, state (currentIndex, score, answeredStatus), rendering, validation, result screen
 └── README.md
 ```
-
 
 
 ## ⚙️ How to Run Locally
@@ -107,4 +105,3 @@ No installation or build step is needed.
 - [ ] Add more questions
 - [ ] Add categories (e.g. HTML, CSS, JavaScript)
 - [ ] Shuffle questions and options
-- [ ] Save the high score using `localStorage`
